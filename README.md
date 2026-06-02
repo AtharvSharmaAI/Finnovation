@@ -17,7 +17,6 @@ India loses over ₹10,000 crore annually to cyber fraud, with SBI being the mos
 
 ## 📸 Screenshots
 
-*(Replace the placeholders below with actual screenshots of the application)*
 
 <div align="center">
   <img src="Screenshot from 2026-06-02 20-29-41.png" alt="Gateway Interception Screen" width="200"/>
