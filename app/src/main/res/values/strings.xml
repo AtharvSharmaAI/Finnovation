@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecureShield</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Security Dashboard</string>
+    <string name="second_fragment_label">Threat Intelligence</string>
+    <string name="next">View Intelligence</string>
+    <string name="previous">Back to Dashboard</string>
+</resources>
